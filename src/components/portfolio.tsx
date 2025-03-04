@@ -30,7 +30,7 @@ export default function Portfolio() {
       id: 1,
       title: "AA Website",
       description:
-        "A full-featured e-commerce website offering robust product management, seamless shopping cart functionality, and integrated payment processing.",
+        "A web portal for Archineer Associate Company, featuring robust product management, seamless shopping cart functionality, and integrated payment processing tailored to the company’s needs.",
       image: "/aa.png?height=600&width=800",
       category: ["web"],
       technologies: ["React", "Node.js", "MongoDB", "Stripe"],
