@@ -44,7 +44,7 @@ export default function Portfolio() {
         "A mobile app designed to help insurance adjusters efficiently track customer incidents and manage accident-related tasks.",
       image: "/no_image.png",
       category: ["mobile"],
-      technologies: ["Flutter", "Firebase", "Google Fit API"],
+      technologies: ["Flutter"],
       demoUrl: "#",
       githubUrl: "#",
     },
